@@ -1,9 +1,9 @@
-👋 Hi there! I'm Tommaso, a passionate developer with a love for mathematics and machine learning. 
+👋 Hi there! I’m Tommaso, a dedicated software developer with a strong passion for mathematics and machine learning.
 
-🧮 Fascinated by numbers and algorithms, I thrive on solving complex problems and exploring the depths of mathematical concepts.
+🧮 Enthralled by numbers and algorithms, I enjoy tackling complex problems and delving into advanced mathematical concepts.
 
-💻 In my coding journey, I adeptly utilize C, C++, and Python, leveraging their strengths to merge the power of mathematics with software development.
+💻 Proficient in C, C++, and Python.
 
-🌟 Let's connect and collaborate on exciting projects !
+🌟 I’m always eager to connect and collaborate on challenging and inspiring projects.
 
 
