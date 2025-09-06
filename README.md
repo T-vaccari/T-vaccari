@@ -1,7 +1,2 @@
-👋 Hi there! I’m Tommaso, a dedicated software developer with a strong passion for mathematics and machine learning.
-
-💻 Proficient in C, C++, and Python.
-
-🌟 I’m always eager to connect and collaborate on challenging and inspiring projects.
-
+Hi, I'm Tommaso 👋 — a Computer Science & Engineering student at Politecnico di Milano, passionate about math, machine learning, and well-crafted software. I enjoy combining programming and mathematics to build useful, thoughtful solutions.
 
