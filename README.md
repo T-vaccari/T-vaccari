@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi, I'm Tommaso 👋</h1>
 <p align="center">
-  Engineering & Computer Science student at Politecnico di Milano passionate about math, machine learning, and well-crafted software.  
-  I combine math and programming to build thoughtful, practical solutions to challenging problems.
+  Engineering & Computer Science student at Politecnico di Milano passionate about math, machine learning, and well-crafted software.
 </p>
 
 
