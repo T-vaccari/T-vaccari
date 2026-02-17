@@ -55,25 +55,4 @@
 </p>
 
 
----
 
-### 🚀 Featured projects
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/T-vaccari/Seq2Seq-Models-for-Symbolic-Expression-Recovery-from-Taylor-Series">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-vaccari&repo=Seq2Seq-Models-for-Symbolic-Expression-Recovery-from-Taylor-Series&hide_border=true" alt="Seq2Seq from Taylor series"/>
-      </a>
-      <br/>
-      <sub>Neural symbolic regression from truncated Taylor series.</sub>
-    </td>
-    <td>
-      <a href="https://github.com/T-vaccari/From-Bigrams-to-Neural-Networks">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-vaccari&repo=From-Bigrams-to-Neural-Networks&hide_border=true" alt="From Bigrams to Neural Networks"/>
-      </a>
-      <br/>
-      <sub>Italian name generator: from bigram counts to PyTorch NN.</sub>
-    </td>
-  </tr>
-  
-> More on my <a href="https://www.tommasovaccari.com/projects">projects page</a>
