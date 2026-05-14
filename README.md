@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Tommaso 👋</h1>
 <p align="center">
-  Engineering & Computer Science student at Politecnico di Milano passionate about math, machine learning, and well-crafted software.
+  Engineering & Computer Science student at Politecnico di Milano passionate about applied math and machine learning.
 </p>
 
 
